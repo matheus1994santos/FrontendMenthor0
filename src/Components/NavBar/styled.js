@@ -118,7 +118,7 @@ export const ButtonLogin = styled.button`
     }
 `;
 
-export const ButtonRegister = styled.button` 
+export const ButtonRegister = styled.button`
     border: 1.5px solid #757575;
     padding: 8px 20px;
     font-size: 16px;
