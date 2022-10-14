@@ -1,11 +1,7 @@
 {
   "name": "10.projeto",
   "version": "0.1.0",
-<<<<<<< HEAD
   "homepage": "./",
-=======
-  "homepage":"./",
->>>>>>> main
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
